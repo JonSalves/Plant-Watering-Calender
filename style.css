@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(74, 211, 56);
+
+}
+
+#title{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#date,#month,#year{
+    color: black;
+    justify-content: center;
+    flex-wrap: nowrap;
+    text-align: center;
+    font-size: 3vh;
+}
+#day{
+    color: black;
+    justify-content: center;
+    flex-wrap: nowrap;
+    text-align: center;
+    font-size: 3vh;
+}
+
+.date_day{
+    background-color: white;
+    border-radius: 2cm;
+    justify-content: center;
+    width: 30vw;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.plants_to_water{
+    color: black;
+    justify-content: center;
+    flex-wrap: nowrap;
+    text-align: center;
+    font-size: 3vh;
+}
+
+.main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
