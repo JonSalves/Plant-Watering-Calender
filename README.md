@@ -1,5 +1,11 @@
 # Plant Watering Calender
  
+ Requirements:
+• The user can easily view which plants to water on which date(s).
+• The schedule starts on next Monday and covers the following 12 weeks.
+• No watering takes place on weekends (Saturdays and Sundays).
+• Each plant is watered based on its desired schedule, considering weekends.
+
 Hey There!
 
 This is my first time writing a README so please bear with me. 
